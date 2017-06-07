@@ -8,17 +8,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iamshaunjp/mongodb-playlist.git"
-  },
+    "url": "git+https://github.com/amitmankotia/mongodb-playlist.git",
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/iamshaunjp/mongodb-playlist/issues"
-  },
-  "homepage": "https://github.com/iamshaunjp/mongodb-playlist#readme",
-  "dependencies": {
-    "mocha": "^3.2.0",
-    "mongoose": "^4.7.5"
-  }
 }
